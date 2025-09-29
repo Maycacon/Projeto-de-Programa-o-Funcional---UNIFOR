@@ -7,7 +7,7 @@
 - Maycon Andrade – Matrícula XXXXX – Implementação / Testes  
 - Amanda Alves Eloi - 2326260 – Implementação / Documentação  
 - Esther de Souza Ramalho - 2313582 – Documentação / Revisão  
--  - 2418803 – Testes / Auxílio  
+- Marcos Aurélio Sousa de Carvalho - 2418803 – Testes / Auxílio  
 
 ---
 
