@@ -5,19 +5,19 @@
 **Disciplina:** Programação Funcional  
 **Integrantes da Equipe:**
 - Maycon Andrade – Matrícula XXXXX – Implementação / Testes  
-- [Nome 2] – Matrícula XXXXX – Implementação / Documentação  
-- [Nome 3] – Matrícula XXXXX – Documentação / Revisão  
-- [Nome 4] – Matrícula XXXXX – Testes / Auxílio  
+- Amanda Alves Eloi - 2326260 – Implementação / Documentação  
+- Esther de Souza Ramalho - 2313582 – Documentação / Revisão  
+-  - 2418803 – Testes / Auxílio  
 
 ---
 
 ## Papéis
-| Integrante       | Papel no Projeto                  |
-|-----------------|----------------------------------|
-| Maycon Andrade  | Implementação do código e testes |
-| Nome 2          | Implementação e documentação     |
-| Nome 3          | Documentação e revisão           |
-| Nome 4          | Testes e auxílio na implementação |
+| Integrante                       | Papel no Projeto                 |
+|----------------------------------|----------------------------------|
+| Maycon Barroso Andrade           | Implementação do código e testes |
+| Amanda Alves Eloi                | Implementação e documentação     |
+| Esther de Souza Ramalho          | Documentação e revisão           |
+| Marcos Aurélio Sousa de Carvalho | Testes e auxílio na implementação|
 
 ---
 
