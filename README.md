@@ -4,7 +4,7 @@
 **Nome do Projeto:** Sistema de Tarefas Funcional  
 **Disciplina:** Programação Funcional  
 **Integrantes da Equipe:**
-- Maycon Andrade – Matrícula XXXXX – Implementação / Testes  
+- Maycon Andrade – Matrícula 2323820 – Implementação / Testes  
 - Amanda Alves Eloi - 2326260 – Implementação / Documentação  
 - Esther de Souza Ramalho - 2313582 – Documentação / Revisão  
 - Marcos Aurélio Sousa de Carvalho - 2418803 – Testes / Auxílio  
