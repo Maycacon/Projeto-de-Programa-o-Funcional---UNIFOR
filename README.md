@@ -8,6 +8,10 @@
 - Amanda Alves Eloi - 2326260 – Implementação / Testes
 - Esther de Souza Ramalho - 2313582 – Auxilio / Revisão  
 
+**Observação:** Tivemos dois integrantes que saíram do grupo: Bruno trancou o curso e Alisson apenas saiu.
+
+**Repositório GitHub:** [https://github.com/Maycacon/Projeto-de-Programa-o-Funcional---UNIFOR](https://github.com/Maycacon/Projeto-de-Programa-o-Funcional---UNIFOR)
+
 ---
 
 ## Papéis
@@ -16,7 +20,6 @@
 | Maycon Barroso Andrade           | Implementação do código e Documentação|
 | Amanda Alves Eloi                | Implementação e Testes                |
 | Esther de Souza Ramalho          | Auxilio e revisão                     |
-
 
 ---
 
@@ -95,7 +98,7 @@ Todos os testes foram implementados em `tests.py` e executados com sucesso.
 ---
 
 ## Observações
-- **Uso do ChatGPT:** Para a estruturação do projeto, fizemos a seguinte pergunta ao ChatGPT: "Sugira uma estrutura de arquivos para um projeto Python simples com interface Tkinter e testes unitários." A resposta sugerida pelo chatbot foi uma estrutura contendo os arquivos main.py, tests.py e um README.md, que serviu de base inicial para nossa organização. P ara as ideias de saída, perguntamos: "Como posso exibir uma lista de tarefas em Python de forma clara no terminal?" O chatbot sugeriu formatos de texto como "Tarefa X [Prioridade] - Status (Concluída/Pendente)", o que nos inspirou no design da exibição das tarefas na interface gráfica.
+- **Uso do ChatGPT:** Para a estruturação do projeto, fizemos a seguinte pergunta ao ChatGPT: "Sugira uma estrutura de arquivos para um projeto Python simples com interface Tkinter e testes unitários." A resposta sugerida pelo chatbot foi uma estrutura contendo os arquivos main.py, tests.py e um README.md, que serviu de base inicial para nossa organização. Para as ideias de saída, perguntamos: "Como posso exibir uma lista de tarefas em Python de forma clara no terminal?" O chatbot sugeriu formatos de texto como "Tarefa X [Prioridade] - Status (Concluída/Pendente)", o que nos inspirou no design da exibição das tarefas na interface gráfica.
 - Todas as funções do código estão mapeadas neste documento, garantindo a fidedignidade entre documentação e implementação.
 
 ---
